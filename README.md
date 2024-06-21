@@ -102,7 +102,7 @@ We welcome contributions to improve this project. To contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a pull request.
 
-# Here is the example how this code will give output
+# Here is the example how this Project will give output
 
 ![Screenshot 2024-06-21 164552](https://github.com/RudraArora/Library-management-System/assets/100142404/8fd125ea-375a-4ad7-9fde-bc76d168c3d9)
 
